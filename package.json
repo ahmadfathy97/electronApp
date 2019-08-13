@@ -1,0 +1,14 @@
+{
+  "name": "simple-electron-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Ahmad Fathy",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^6.0.2"
+  }
+}
